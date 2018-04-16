@@ -1,0 +1,25 @@
+{
+  "name": "selections",
+  "version": "1.0.0",
+  "description": "Selections for tC tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/translationCoreApps/selections.git"
+  },
+  "keywords": [
+    "tc",
+    "translationCore",
+    "unfoldingword",
+    "bible"
+  ],
+  "author": "Richard Mahn",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/translationCoreApps/selections/issues"
+  },
+  "homepage": "https://github.com/translationCoreApps/selections#readme"
+}
