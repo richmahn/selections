@@ -1,1 +1,2 @@
-# selections
+# selecdtions
+Logic for handling selections
